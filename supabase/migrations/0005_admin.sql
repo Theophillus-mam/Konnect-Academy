@@ -114,6 +114,8 @@ begin
 end;
 $$;
 
+drop function if exists public.admin_learner_rows();
+
 create or replace function public.admin_learner_rows()
 returns table (
   user_id        uuid,
