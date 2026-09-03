@@ -1,4 +1,4 @@
-# Konnecta Academy
+# Konnect Academy
 
 An interactive English-learning app, built from the `stitch_afrifluent_english` design export.
 
@@ -280,7 +280,7 @@ places rather than by running a second auth backend:
 
 - **Separate sessions.** Both pages are served from the same origin and so
   share `localStorage`. The console's client uses its own `storageKey`
-  (`konnecta-admin-auth`), so the two sessions are independent: you can be
+  (`konnect-admin-auth`), so the two sessions are independent: you can be
   signed in as an administrator on `/admin` and as a learner on `/` in the same
   browser, and signing out of one leaves the other alone. Without this, one
   sign-in would silently overwrite the other.

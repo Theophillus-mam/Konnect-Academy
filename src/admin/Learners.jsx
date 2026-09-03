@@ -56,7 +56,7 @@ export default function Learners({ data, ping }) {
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = `konnecta-learners-${new Date().toISOString().slice(0, 10)}.csv`;
+    a.download = `konnect-learners-${new Date().toISOString().slice(0, 10)}.csv`;
     a.click();
     URL.revokeObjectURL(url);
     ping(`Exported ${learners.length} ${learners.length === 1 ? "learner" : "learners"}`);

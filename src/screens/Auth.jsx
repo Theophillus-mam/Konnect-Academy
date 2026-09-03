@@ -74,13 +74,13 @@ export default function Auth({ mode, actions, go, ping }) {
         <div className="brand" style={{ padding: 0, marginBottom: 26 }}>
           <div className="brand-mark"><img src="/konnect-logo.png" alt="Konnect Academy logo" /></div>
           <div>
-            <div className="brand-name">Konnecta Academy</div>
+            <div className="brand-name">Konnect Academy</div>
             <div className="brand-sub">LANGUAGE SCHOOL</div>
           </div>
         </div>
 
         <div className="eyebrow row" style={{ gap: 8 }}><Icon n={isSignUp ? "users" : "lock"} size={15} /> Account</div>
-        <h1 className="display" style={{ margin: "8px 0 8px" }}>{isSignUp ? "Join Konnecta Academy" : "Welcome back"}</h1>
+        <h1 className="display" style={{ margin: "8px 0 8px" }}>{isSignUp ? "Join Konnect Academy" : "Welcome back"}</h1>
         <p className="muted" style={{ margin: "0 0 24px" }}>
           {isSignUp
             ? "Create your learner profile for personalized English, French, or Portuguese practice."
@@ -129,7 +129,7 @@ export default function Auth({ mode, actions, go, ping }) {
         </form>
 
         <div className="auth-switch">
-          <span className="small muted">{isSignUp ? "Already have a profile?" : "New to Konnecta Academy?"}</span>
+          <span className="small muted">{isSignUp ? "Already have a profile?" : "New to Konnect Academy?"}</span>
           <button className="btn btn-ghost btn-sm" onClick={() => switchMode(isSignUp ? "signin" : "signup")}>
             {isSignUp ? "Sign in" : "Sign up"}
           </button>

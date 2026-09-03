@@ -77,7 +77,7 @@ export default function App() {
           <div className="brand">
             <div className="brand-mark"><img src="/konnect-logo.png" alt="Konnect Academy logo" /></div>
             <div>
-              <div className="brand-name">Konnecta Academy</div>
+              <div className="brand-name">Konnect Academy</div>
               <div className="brand-sub">LANGUAGE SCHOOL</div>
             </div>
           </div>
@@ -121,7 +121,7 @@ export default function App() {
           <div className="topbar">
             <div className="topbar-brand">
               <img src="/konnect-logo.png" alt="Konnect Academy logo" />
-              <span>Konnecta Academy</span>
+              <span>Konnect Academy</span>
             </div>
             <div className="topbar-stats">
               <div className="chip" title="Day streak"><span style={{ color: "var(--primary)" }}><Icon n="flame" size={16} /></span>{s.streak}</div>

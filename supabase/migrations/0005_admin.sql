@@ -1,4 +1,4 @@
--- Konnecta Academy — admin role and console
+-- Konnect Academy — admin role and console
 --
 -- Everything a learner touches is owner-only, which is right, but it means a
 -- school administrator cannot see a single row that is not their own. This

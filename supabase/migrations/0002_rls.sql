@@ -1,4 +1,4 @@
--- Konnecta Academy — row level security
+-- Konnect Academy — row level security
 --
 -- Course content is public read-only (the anon key can fetch it, nobody can
 -- write it from the client). Learner data is readable and writable only by

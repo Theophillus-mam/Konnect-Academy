@@ -1,4 +1,4 @@
--- Konnecta Academy — the ambiguous pronunciation verdict
+-- Konnect Academy — the ambiguous pronunciation verdict
 --
 -- 0004 constrained verdict to match, close, different and unclear. The checker
 -- now has a fifth outcome: the transcript matched, but the target word has

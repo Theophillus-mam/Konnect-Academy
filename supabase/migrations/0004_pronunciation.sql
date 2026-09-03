@@ -1,4 +1,4 @@
--- Konnecta Academy — pronunciation recordings
+-- Konnect Academy — pronunciation recordings
 --
 -- Learners record themselves saying a vocabulary word. The audio goes to
 -- Supabase Storage; this table holds the metadata and the rough speech-to-text

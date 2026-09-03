@@ -22,7 +22,7 @@ export const supabaseAdmin = isConfigured
         persistSession: true,
         autoRefreshToken: true,
         detectSessionInUrl: true,
-        storageKey: "konnecta-admin-auth",
+        storageKey: "konnect-admin-auth",
       },
     })
   : null;

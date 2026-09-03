@@ -1,4 +1,4 @@
--- Konnecta Academy — admin content editing
+-- Konnect Academy — admin content editing
 --
 -- 0002_rls.sql revoked insert, update and delete on every content table from
 -- the authenticated role, on the reasoning that a policy added by mistake

@@ -1,4 +1,4 @@
--- Konnecta Academy — schema
+-- Konnect Academy — schema
 -- Content tables are readable by everyone; progress tables are per-learner.
 
 create extension if not exists pgcrypto;

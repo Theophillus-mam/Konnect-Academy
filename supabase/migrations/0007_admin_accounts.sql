@@ -1,4 +1,4 @@
--- Konnecta Academy — separate administrator accounts
+-- Konnect Academy — separate administrator accounts
 --
 -- 0005 made an administrator a learner with a flag set. This replaces that
 -- with a separate account: an admin has a row in admin_users and no learner

@@ -1,4 +1,4 @@
--- Konnecta Academy — French and Portuguese course content
+-- Konnect Academy — French and Portuguese course content
 -- Generated from the course definitions; safe to re-run.
 
 -- ===== Français professionnel et quotidien =====

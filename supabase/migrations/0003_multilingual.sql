@@ -1,4 +1,4 @@
--- Konnecta Academy — multilingual enrolment
+-- Konnect Academy — multilingual enrolment
 --
 -- Before this migration a learner had one CEFR level (profiles.level_code) and
 -- one set of skill scores. That only works while a single language is active.

@@ -137,7 +137,7 @@ export default function AdminApp() {
         <header className="topbar">
           <div className="topbar-brand">
             <span className="admin-badge"><Icon n="gear" size={16} /></span>
-            Konnecta Academy
+            Konnect Academy
             <span className="pill pill-grey" style={{ marginLeft: 6 }}>Console</span>
           </div>
           <div className="row" style={{ gap: 12 }}>

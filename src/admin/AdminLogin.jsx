@@ -21,7 +21,7 @@ export default function AdminLogin({ onSubmit, busy, error }) {
         <div className="admin-gate-mark">
           <Icon n="gear" size={22} />
         </div>
-        <h1 className="h1" style={{ marginTop: 14 }}>Konnecta Academy</h1>
+        <h1 className="h1" style={{ marginTop: 14 }}>Konnect Academy</h1>
         <p className="muted" style={{ margin: "6px 0 26px" }}>
           Administrator sign-in. Learners sign in on the main site.
         </p>

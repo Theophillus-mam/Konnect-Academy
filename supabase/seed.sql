@@ -1,4 +1,4 @@
--- Konnecta Academy seed data
+-- Konnect Academy seed data
 -- Generated from the original src/data/*.js content files.
 -- Safe to re-run: every insert is keyed on a deterministic UUID.
 
