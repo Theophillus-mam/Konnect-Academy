@@ -1,0 +1,21 @@
+{
+  "name": "afrifluent",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AfriFluent — an interactive English learning app built from the Ethos Learning design system.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
